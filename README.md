@@ -1,5 +1,4 @@
 # Real-Time-Gender-Classification
-Real-Time-Gender-Classification
 Real-Time-Gender-Classification is a machine learning project that predicts the gender of individuals based on facial images. This project leverages image processing techniques and deep learning models to classify images as either male or female with high accuracy.
 
 Key Features
